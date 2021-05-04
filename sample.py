@@ -9,3 +9,4 @@ print "I am lerning git and aws"
 
 print "I love paython and java"
 print "we have a lovely weather today"
+print "git is a good tool"
